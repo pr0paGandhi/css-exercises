@@ -1,0 +1,20 @@
+/* style */
+
+.uneven {
+    background-color: rgb(214, 118, 118);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.fontsize {
+    font-size: 24px;
+}
+
+#number2 {
+    color: rgb(34, 5, 202);
+    font-size: 36px;
+}
+
+#snowflake {
+    background-color: rgb(45, 123, 6);
+    font-weight: bold;
+}
